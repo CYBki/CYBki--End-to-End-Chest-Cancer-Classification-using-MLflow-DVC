@@ -67,6 +67,6 @@ Bu patch geçici bir çözümdür. Daha kalıcı ve stabil çözümler için:
 
 ---
 
-📌 **Sonuç:**  
+**Sonuç:**  
 - Patch ile sorun hızlıca çözüldü.  
 - Uzun vadede **MLflow sürüm güncellemesi** veya **bağımsız Keras ile çalışma** önerilir.  
