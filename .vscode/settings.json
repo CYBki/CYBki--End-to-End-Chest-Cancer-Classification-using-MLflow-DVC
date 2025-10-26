@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/syorgun/anaconda3/envs/cancer/lib/python3.8/site-packages"
+    ],
+    "python.defaultInterpreterPath": "/home/syorgun/anaconda3/envs/cancer/bin/python"
+}
