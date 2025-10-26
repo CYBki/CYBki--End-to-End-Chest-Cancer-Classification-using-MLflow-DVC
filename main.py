@@ -5,6 +5,8 @@ from cnnClassifier.pipeline.stage_03_model_trainer import ModelTrainingPipeline
 from cnnClassifier.pipeline.stage_04_model_evaluation import EvaluationPipeline
 
 
+import dagshub
+dagshub.init(repo_owner='CYBki', repo_name='CYBki--End-to-End-Chest-Cancer-Classification-using-MLflow-DVC', mlflow=True)
 
 STAGE_NAME = "Data Ingestion stage"
 
